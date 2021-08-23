@@ -1,0 +1,19 @@
+
+ param of focal_loss on zoo:
+
+C = 0.5,penalty = l2
+ param of focal_loss on zoo:
+
+C = 0.5,penalty = l2
+ param of focal_loss on zoo:
+
+C = 0.5,penalty = l2
+ param of focal_loss on zoo:
+
+C = 0.5,penalty = l2
+ param of focal_loss on zoo:
+
+C = 0.5,penalty = l2
+ param of focal_loss on zoo:
+
+C = 0.5,penalty = l2

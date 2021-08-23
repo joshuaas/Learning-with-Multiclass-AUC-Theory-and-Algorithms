@@ -1,0 +1,16 @@
+
+ param of focal_loss on svmguide4:
+
+C = 0.5,penalty = l2
+ param of focal_loss on svmguide4:
+
+C = 0.5,penalty = l2
+ param of focal_loss on svmguide4:
+
+C = 0.5,penalty = l2
+ param of focal_loss on svmguide4:
+
+C = 0.5,penalty = l2
+ param of focal_loss on svmguide4:
+
+C = 0.5,penalty = l2

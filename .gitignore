@@ -1,0 +1,6 @@
+AUC_Traditional/results/**
+AUC_Traditional/build/**
+AUC_Traditional/*.so
+AUC_Traditional/*.html
+AUC_Traditional/__pycache__/**
+

@@ -1,0 +1,7 @@
+
+ param of focal_loss on new-thyroid:
+
+C = 0.5,penalty = l2
+ param of focal_loss on new-thyroid:
+
+C = 0.5,penalty = l2
