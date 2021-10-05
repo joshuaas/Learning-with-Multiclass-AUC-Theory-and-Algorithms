@@ -1,5 +1,5 @@
 # Learning with Multiclass AUC: Theory and Algorithms 
-> Zhiyong Yang, Qianqian Xu, Shilong Bao, Yuan He, Xiaochun Cao and Qingming Huang. [Learning with Multiclass AUC: Theory and Algorithms](). IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021. (Regular Paper)
+> Zhiyong Yang, Qianqian Xu, Shilong Bao, Yuan He, Xiaochun Cao and Qingming Huang. [Learning with Multiclass AUC: Theory and Algorithms](https://github.com/joshuaas/Learning-with-Multiclass-AUC-Theory-and-Algorithms/blob/master/Learning%20with%20Multiclass%20AUC-Theory%20and%20Algorithms.pdf). IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021. (Regular Paper)
 
 
 # AUC_Traditional
