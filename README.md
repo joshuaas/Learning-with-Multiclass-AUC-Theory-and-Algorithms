@@ -1,6 +1,8 @@
 # Learning with Multiclass AUC: Theory and Algorithms 
 > Zhiyong Yang, Qianqian Xu, Shilong Bao, Yuan He, Xiaochun Cao and Qingming Huang. [Learning with Multiclass AUC: Theory and Algorithms](https://github.com/joshuaas/Learning-with-Multiclass-AUC-Theory-and-Algorithms/blob/master/Learning%20with%20Multiclass%20AUC-Theory%20and%20Algorithms.pdf). IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021. (Regular Paper)
 
+# Update News
+Note that, this repo only supplies the code of AUC optimization for traditional ML methods. **We have open-sourced an end2end machine learning library for X metrics learning (including AUROC for deep neural networks)**. Please refer to [XCurve](https://github.com/statusrank/XCurve) for the official code. We hope our library can help you deploy/attain your ML model conveniently and easily. Thanks for all!  
 
 # AUC_Traditional
 
